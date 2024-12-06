@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Projects"
+permalink: /projects/
+---
+
+
 # **Projects**
 
 Explore a collection of my data science, machine learning, and educational resources projects. Each project is designed to showcase practical applications of tools and techniques in data analysis and visualization.
