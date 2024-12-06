@@ -11,6 +11,22 @@ Explore a collection of my data science, machine learning, and educational resou
 
 ---
 
+<div class="project-grid">
+    <div class="project-card">
+        <img src="path-to-image.jpg" alt="NumPy Tutorial" class="project-image">
+        <h3>NumPy Tutorial</h3>
+        <p>A comprehensive guide to mastering numerical computations in Python.</p>
+        <a href="https://github.com/YusufAltuntas/numpy-tutorial" class="btn">View Project</a>
+    </div>
+    <div class="project-card">
+        <img src="path-to-image.jpg" alt="Pandas Tutorial" class="project-image">
+        <h3>Pandas Tutorial</h3>
+        <p>Explore powerful data manipulation techniques with Pandas.</p>
+        <a href="https://github.com/YusufAltuntas/pandas-tutorial" class="btn">View Project</a>
+    </div>
+    <!-- Add more project cards here -->
+</div>
+
 ### [NumPy Tutorial](https://github.com/YusufAltuntas/numpy-tutorial)
 A comprehensive guide to mastering NumPy, the cornerstone of numerical computation in Python. This tutorial covers:
 - Array creation and manipulation.
