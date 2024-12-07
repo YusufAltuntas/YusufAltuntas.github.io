@@ -23,11 +23,3 @@ Feel free to reach out! I'd love to hear from you.
 
 <p>Thank you for reaching out! I will get back to you as soon as possible.</p>
 
-## Connect With Me
-
-<div class="social-icons">
-  <a href="https://github.com/YusufAltuntas" target="_blank">GitHub</a>
-  <a href="https://medium.com/@altuntasyusuf" target="_blank">Medium</a>
-  <a href="https://www.linkedin.com/in/yusuf-altunta%C5%9F-009a46178/" target="_blank">LinkedIn</a>
-</div>
-
