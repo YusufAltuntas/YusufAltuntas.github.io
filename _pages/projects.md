@@ -15,7 +15,7 @@ Explore a collection of my data science, machine learning, and educational resou
 
 # [NumPy Tutorial](https://github.com/YusufAltuntas/numpy-tutorial)
 
-![numpy](images/numpy.png)
+![numpy](\images\numpy.png)
 
 A comprehensive guide to mastering NumPy, the cornerstone of numerical computation in Python. This tutorial covers:
 - Array creation and manipulation.
@@ -26,7 +26,7 @@ A comprehensive guide to mastering NumPy, the cornerstone of numerical computati
 
 # [Pandas Tutorial](https://github.com/YusufAltuntas/pandas-tutorial)
 
-![pandas](images/pandas.png)
+![pandas](\images\pandas.png)
 
 Dive into data manipulation and analysis with Pandas. This tutorial introduces:
 - DataFrames and Series for structured data handling.
@@ -48,7 +48,7 @@ A step-by-step guide to creating stunning data visualizations with Matplotlib:
 
 ### [Nutritional Value Analysis of Starbucks Products](https://github.com/YusufAltuntas/nutritional-value-analysis-of-starbucks-products)
 
-![](images/starbucks.png)
+![](\images\starbucks.png)
 
 Analyze the nutritional content of Starbucks' offerings:
 - Data cleaning and preprocessing of menu items.
@@ -58,6 +58,9 @@ Analyze the nutritional content of Starbucks' offerings:
 ---
 
 ### [Customer Shopping Trend EDA](https://github.com/YusufAltuntas/customer-shopping-trend-EDA)
+
+![](\images\shopping.png)
+
 Uncover patterns in customer shopping behaviors:
 - Exploratory Data Analysis (EDA) on retail datasets.
 - Identifying seasonal trends and purchasing habits.
@@ -66,6 +69,9 @@ Uncover patterns in customer shopping behaviors:
 ---
 
 ### [Netflix DataSet EDA Project](https://github.com/YusufAltuntas/Netflix-DataSet-EDA-project)
+
+![](\images\netflix.png)
+
 A deep dive into Netflix's content catalog:
 - Analysis of genres, release years, and content ratings.
 - Insights into regional preferences and platform trends.
@@ -74,6 +80,8 @@ A deep dive into Netflix's content catalog:
 ---
 
 ### [Advanced RAG Project](https://github.com/YusufAltuntas/advanced-rag-project)
+
+
 A research-oriented project exploring Retrieval-Augmented Generation (RAG) methodologies:
 - Implementation of cutting-edge information retrieval systems.
 - Integration of deep learning for enhanced data access.
