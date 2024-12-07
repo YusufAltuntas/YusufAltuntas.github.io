@@ -13,7 +13,10 @@ Explore a collection of my data science, machine learning, and educational resou
 
 ---
 
-### [NumPy Tutorial](https://github.com/YusufAltuntas/numpy-tutorial)
+### Numpy Tutorial
+
+[NumPy Tutorial](https://github.com/YusufAltuntas/numpy-tutorial)
+
 A comprehensive guide to mastering NumPy, the cornerstone of numerical computation in Python. This tutorial covers:
 - Array creation and manipulation.
 - Vectorized operations for efficiency.
@@ -21,7 +24,10 @@ A comprehensive guide to mastering NumPy, the cornerstone of numerical computati
 
 ---
 
-### [Pandas Tutorial](https://github.com/YusufAltuntas/pandas-tutorial)
+### Pandas Tutorial
+
+[Pandas Tutorial](https://github.com/YusufAltuntas/pandas-tutorial)
+
 Dive into data manipulation and analysis with Pandas. This tutorial introduces:
 - DataFrames and Series for structured data handling.
 - Filtering, grouping, and reshaping datasets.
