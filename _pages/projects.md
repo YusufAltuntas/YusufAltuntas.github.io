@@ -35,7 +35,7 @@ Dive into data manipulation and analysis with Pandas. This tutorial introduces:
 
 ---
 
-### [Matplotlib Tutorial](https://github.com/YusufAltuntas/matplotlib-tutorial)
+# [Matplotlib Tutorial](https://github.com/YusufAltuntas/matplotlib-tutorial)
 
 ![](\images\matplotlibicon.jpg)
 
@@ -46,7 +46,7 @@ A step-by-step guide to creating stunning data visualizations with Matplotlib:
 
 ---
 
-### [Nutritional Value Analysis of Starbucks Products](https://github.com/YusufAltuntas/nutritional-value-analysis-of-starbucks-products)
+# [Nutritional Value Analysis of Starbucks Products](https://github.com/YusufAltuntas/nutritional-value-analysis-of-starbucks-products)
 
 ![](\images\starbucks.png)
 
@@ -57,7 +57,7 @@ Analyze the nutritional content of Starbucks' offerings:
 
 ---
 
-### [Customer Shopping Trend EDA](https://github.com/YusufAltuntas/customer-shopping-trend-EDA)
+# [Customer Shopping Trend EDA](https://github.com/YusufAltuntas/customer-shopping-trend-EDA)
 
 ![](\images\shopping.png)
 
@@ -68,7 +68,7 @@ Uncover patterns in customer shopping behaviors:
 
 ---
 
-### [Netflix DataSet EDA Project](https://github.com/YusufAltuntas/Netflix-DataSet-EDA-project)
+# [Netflix DataSet EDA Project](https://github.com/YusufAltuntas/Netflix-DataSet-EDA-project)
 
 ![](\images\netflix.png)
 
@@ -79,8 +79,7 @@ A deep dive into Netflix's content catalog:
 
 ---
 
-### [Advanced RAG Project](https://github.com/YusufAltuntas/advanced-rag-project)
-
+# [Advanced RAG Project](https://github.com/YusufAltuntas/advanced-rag-project)
 
 A research-oriented project exploring Retrieval-Augmented Generation (RAG) methodologies:
 - Implementation of cutting-edge information retrieval systems.
