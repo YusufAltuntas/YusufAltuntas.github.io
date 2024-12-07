@@ -13,9 +13,9 @@ Explore a collection of my data science, machine learning, and educational resou
 
 ---
 
-### Numpy Tutorial
+# [NumPy Tutorial](https://github.com/YusufAltuntas/numpy-tutorial)
 
-[NumPy Tutorial](https://github.com/YusufAltuntas/numpy-tutorial)
+![numpy](images/numpy.png)
 
 A comprehensive guide to mastering NumPy, the cornerstone of numerical computation in Python. This tutorial covers:
 - Array creation and manipulation.
@@ -24,9 +24,9 @@ A comprehensive guide to mastering NumPy, the cornerstone of numerical computati
 
 ---
 
-# Pandas 
+# [Pandas Tutorial](https://github.com/YusufAltuntas/pandas-tutorial)
 
-[Pandas](https://github.com/YusufAltuntas/pandas-tutorial)
+![pandas](images/pandas.png)
 
 Dive into data manipulation and analysis with Pandas. This tutorial introduces:
 - DataFrames and Series for structured data handling.
@@ -36,6 +36,9 @@ Dive into data manipulation and analysis with Pandas. This tutorial introduces:
 ---
 
 ### [Matplotlib Tutorial](https://github.com/YusufAltuntas/matplotlib-tutorial)
+
+![](images/matplotlibicon.jpg)
+
 A step-by-step guide to creating stunning data visualizations with Matplotlib:
 - Building basic plots like line charts and histograms.
 - Customizing graphs for better communication.
@@ -44,6 +47,9 @@ A step-by-step guide to creating stunning data visualizations with Matplotlib:
 ---
 
 ### [Nutritional Value Analysis of Starbucks Products](https://github.com/YusufAltuntas/nutritional-value-analysis-of-starbucks-products)
+
+![](images/starbucks.png)
+
 Analyze the nutritional content of Starbucks' offerings:
 - Data cleaning and preprocessing of menu items.
 - Exploratory analysis to identify trends in calories and ingredients.
