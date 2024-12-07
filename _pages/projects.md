@@ -37,7 +37,7 @@ Dive into data manipulation and analysis with Pandas. This tutorial introduces:
 
 ### [Matplotlib Tutorial](https://github.com/YusufAltuntas/matplotlib-tutorial)
 
-![](images/matplotlibicon.jpg)
+![](\images\matplotlibicon.jpg)
 
 A step-by-step guide to creating stunning data visualizations with Matplotlib:
 - Building basic plots like line charts and histograms.
