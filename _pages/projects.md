@@ -24,7 +24,7 @@ A comprehensive guide to mastering NumPy, the cornerstone of numerical computati
 
 ---
 
-# Pandas Tutorial
+# Pandas 
 
 [Pandas](https://github.com/YusufAltuntas/pandas-tutorial)
 
