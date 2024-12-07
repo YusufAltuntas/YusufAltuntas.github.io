@@ -24,9 +24,9 @@ A comprehensive guide to mastering NumPy, the cornerstone of numerical computati
 
 ---
 
-### Pandas Tutorial
+# Pandas Tutorial
 
-[Pandas Tutorial](https://github.com/YusufAltuntas/pandas-tutorial)
+[Pandas](https://github.com/YusufAltuntas/pandas-tutorial)
 
 Dive into data manipulation and analysis with Pandas. This tutorial introduces:
 - DataFrames and Series for structured data handling.
