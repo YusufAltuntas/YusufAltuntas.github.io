@@ -13,14 +13,8 @@ main:
     url: /cv/
   - title: "About Me"
     url: /about/
-  - title: "Documentation"
-    url: /documentation/
-  - title: "Tutorials"
-    url: /tutorials/
   - title: "Contact"
     url: /contact/
   - title: "FAQ"
     url: /faq/
-  - title: "Resources"
-    url: /resources/
 
